@@ -1,7 +1,2 @@
 # FERZ-LIBRARY-MODULE
-# FERZ-LIBRARY-MODULE
-# FERZ-LIBRARY-MODULE
-# FERZ-LIBRARY-MODULE
-# library-flutter
-# library-flutter
-# library-flutter
+ini adalah source code aplikasi peminjaman buku perpustakaan yang di bangun dengan flutter lengkap dengan backendnnya 
